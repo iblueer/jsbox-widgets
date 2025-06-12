@@ -1,4 +1,5 @@
-const inputValue = $widget.inputValue;
+// const inputValue = $widget.inputValue;
+const inputValue = "hello,world";
 
 $widget.setTimeline(ctx => {
   if (inputValue) {
